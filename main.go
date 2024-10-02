@@ -1,7 +1,7 @@
 package main
 
 import (
-	gcpcloudcdnv1 "buf.build/gen/go/plantoncloud/project-planton/protocolbuffers/go/project/planton/apis/provider/gcp/gcpcloudcdn/v1"
+	gcpcloudcdnv1 "buf.build/gen/go/plantoncloud/project-planton/protocolbuffers/go/project/planton/provider/gcp/gcpcloudcdn/v1"
 	"github.com/pkg/errors"
 	"github.com/plantoncloud/gcp-cloud-cdn-pulumi-module/pkg"
 	"github.com/plantoncloud/pulumi-module-golang-commons/pkg/stackinput"
